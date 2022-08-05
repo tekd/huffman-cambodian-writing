@@ -38,17 +38,17 @@ Although Cambodian spelling has historically been plagued by a lack of standardi
 
 # Footnotes
 
-[^1]: Frank M. LeBar, Gerald D. Hickey, and John K. Musgrave, Ethnic Groups of Mainland Southeast Asia (New Haven, Human Relations Area Files, 1964), pp. 287-88.
+[^1]: Frank M. LeBar, Gerald D. Hickey, and John K. Musgrave, _Ethnic Groups of Mainland Southeast Asia_ (New Haven, Human Relations Area Files, 1964), pp. 287-88.
 
-[^2]: P. Wilhelm Schmidt, “Les peuples mon-khmér; trait d’union entre les peuples de l’Asie centrale et de l’Austronésie,” Bulletin de l’Ecole Française d'Extréme-Orient, 7 (1907), pp. 213-63.
+[^2]: P. Wilhelm Schmidt, “Les peuples mon-khmér; trait d’union entre les peuples de l’Asie centrale et de l’Austronésie,” _Bulletin de l’Ecole Française d'Extréme-Orient_, 7 (1907), pp. 213-63.
 
-[^3]: K Kumar Sarkar, “The Earliest Inscription of Indochina,” Sino-Indian Studies, 2 (1956), pp. 7-87.
+[^3]: K Kumar Sarkar, “The Earliest Inscription of Indochina,” _Sino-Indian Studies_, 2 (1956), pp. 7-87.
 
-[^4]: KA, Nilakanta Sastri, “L’Origine de Palphabet du Champa,” Bulletin de l'Ecole Francaise d’Extréme-Orient, 35, pp. 233-41.
+[^4]: KA, Nilakanta Sastri, “L’Origine de Palphabet du Champa,” _Bulletin de lˈÉcole Francaise d’Extrême-Orient_, 35, pp. 233-41.
 
-[^5]: L. P. Briggs, The Ancient Khmer Empire (Philadelphia, The American Philosophical Society, 1951), p. 15, n. 18.
+[^5]: L. P. Briggs, _The Ancient Khmer Empire_ (Philadelphia, The American Philosophical Society, 1951), p. 15, n. 18.
 
-[^6]: Georges Maspero, Grammaire de la langue khmére (Paris, Imprimerie Nationale, 1915, p. 23.
+[^6]: Georges Maspero, _Grammaire de la langue khmère_ (Paris, Imprimerie Nationale, 1915, p. 23.
 
 [^7]: Assuming one is dealing with a homogeneous dialect; differences of pronunciation from one dialect to another are another matter.
 
