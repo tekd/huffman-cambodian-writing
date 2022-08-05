@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "Cambodian System of Writing and Beginning Reader by Franklin E. Huffman (1970)",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "An HTML version of the public domain 1970 Khmer language textbook by Franklin E. Huffman",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "An HTML version of the 1970 Khmer language textbook by Franklin E. Huffman",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Denny Tek",
+    "email": "tek.denny@gmail.com",
+    "url": "https://dennytek.com"
   }
 }

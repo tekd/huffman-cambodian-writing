@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-base-blog",
+  "name": "huffman-cambodian-system-of-writing-1970",
   "version": "7.0.0",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "description": "An HTML version of the public domain 1970 Khmer language textbook by Franklin E. Huffman",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "bench": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
@@ -15,11 +15,11 @@
     "url": "git://github.com/11ty/eleventy-base-blog.git"
   },
   "author": {
-    "name": "Zach Leatherman",
-    "email": "zachleatherman@gmail.com",
-    "url": "https://zachleat.com/"
+    "name": "Denny Tek",
+    "email": "tek.denny@gmail.com",
+    "url": "https://dennytek.com/"
   },
-  "license": "MIT",
+  "license": "",
   "bugs": {
     "url": "https://github.com/11ty/eleventy-base-blog/issues"
   },

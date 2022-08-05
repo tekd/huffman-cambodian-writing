@@ -1,10 +1,10 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: About the Book
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: About the Book
   order: 3
 ---
 
-I am a person that writes stuff.
+An HTML version of the public domain 1970 Khmer language textbook by Franklin E. Huffman.
