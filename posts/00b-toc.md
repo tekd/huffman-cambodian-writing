@@ -47,7 +47,7 @@ V. Subscript Consonant Symbols
   - A. Subscript Forms
   - B. Notes on the Subscripts
     - 1. Shapes of the Subscripts
-    - 2. The Subscript [kh] ◌ [sub]
+    - 2. The Subscript <code class="khmer-sub">◌្ត</code>
     - 3. Special Combinations
     - 4. Position of Vowel Symbols with Clusters
     - 5 Initial Clusters
@@ -61,28 +61,28 @@ VI. Vowel Governance
 
 VII. Diacritics and Punctuation
   - A. Diacritics
-    - 1. The <span class="ipa">/bɑntɑq/</span> (◌)
-    - 2. The <span class="ipa">/museqkətoen/</span> (◌) [sup]
-    - 3. The <span class="ipa">/trəysap/</span> (◌)
-    - 4. The <span class="ipa">/niqkəhət/</span> (◌)
-    - 5. The <span class="ipa">/sanyook-saññaa/</span> (◌)
-    - 6. The <span class="ipa">/toəndəkhiət/</span> (◌=) [sup]
-    - 7. The <span class="ipa">/rɔbaat/</span> (◌)
-    - 8. The <span class="ipa">/reəhmuk/</span> (◌) [sup]
-    - 9. The <span class="ipa">/yuqkəleəqpɨntuq/</span> (◌)[sup]
-    - 10. The <span class="ipa">/leik qahsdaa/</span> (◌)
-    - 11. The <span class="ipa">/wiqriəm/</span> (◌)
-    - 12. The <span class="ipa">/kaaqkəbaat/</span> (◌)
+    - 1. The <span class="ipa">/bɑntɑq/</span> (<code class="khmer-sub">់</code>)
+    - 2. The <span class="ipa">/museqkətoə̆n/</span>(<code class="khmer-sub">៉</code>)
+    - 3. The <span class="ipa">/trəysap/</span> (<code class="khmer-sub">៊</code>)
+    - 4. The <span class="ipa">/niqkəhət/</span> (<code class="khmer-sub">ំ</code>)
+    - 5. The <span class="ipa">/sanyook-saññaa/</span> (<code class="khmer-sub">័</code>)
+    - 6. The <span class="ipa">/toə̆ndəkhiət/</span> (<code class="khmer-sub">៍</code>)
+    - 7. The <span class="ipa">/rɔbaat/</span> (<code class="khmer-sub">៌</code>)
+    - 8. The <span class="ipa">/reə̆hmuk/</span> (<code class="khmer-sub">ះ</code>)
+    - 9. The <span class="ipa">/yuqkəleə̆qpɨntuq/</span> (<code class="khmer-sub">ៈ</code>)[sup]
+    - 10. The <span class="ipa">/leik qahsdaa/</span> (<code class="khmer-sub">៏</code>)
+    - 11. The <span class="ipa">/wiqriəm/</span> (<code class="khmer-sub">៑</code>)
+    - 12. The <span class="ipa">/kaaqkəbaat/</span> (<code class="khmer-sub">៎</code>)
   - B. Punctuation
     - 1. The <span class="ipa">/kliə/</span> (space)
-    - 2. The <span class="ipa">/khan/</span> (◌)
-    - 3. The <span class="ipa">/bɑɑriyasaan/</span> (◌)
-    - 4. The <span class="ipa">/koo-mout/</span> (◌)
-    - 5. The <span class="ipa">/pnɜɜk moən/</span> (◌) [sup]
-    - 6. The <span class="ipa">/cɑmnoc pii kuuh/</span> (◌)
-    - 7. The <span class="ipa">/leik too/</span> (◌)
-    - 8. The <span class="ipa">/laq/</span> (◌)
-    - 9. The <span class="ipa">/sahaq-saññaa/</span> (◌)
+    - 2. The <span class="ipa">/khan/</span> (<span class="khmer">។</span>)
+    - 3. The <span class="ipa">/bɑɑriyaosaan/</span> (<span class="khmer">៕</span>)
+    - 4. The <span class="ipa">/koo-mout/</span> (<span class="khmer">៚</span>)
+    - 5. The <span class="ipa">/pnɛɛk moə̆n/</span> (<span class="khmer">៙</span>) [sup]
+    - 6. The <span class="ipa">/cɑmnoc pii kuuh/</span> (<span class="khmer">៖</span>)
+    - 7. The <span class="ipa">/leik too/</span> (<span class="khmer">ៗ</span>)
+    - 8. The <span class="ipa">/laq/</span> (<span class="khmer">៘</span>)
+    - 9. The <span class="ipa">/sahaq-saññaa/</span> (<span class="khmer">-</span>)
     - 10. Western Punctuation
       
 VIII. Numerals and Abbreviations
@@ -102,25 +102,25 @@ VIII. Numerals and Abbreviations
 IX. Unwritten Sounds 
   - A. Unwritten Vowels
       - 1. The Long Inherent Vowel <span class="ipa">ɑɑ/ɔɔ</span>
-      - 2. The Short Inherent Vowel <span class="ipa">ɑ/u/uə</span> [sup]
-      - 3. The Short Vowels <span class="ipa">a/eə/oə</span> [sup]
+      - 2. The Short Inherent Vowel <span class="ipa">ɑ/u/uə̆</span>
+      - 3. The Short Vowels <span class="ipa">a/eə̆/oə̆</span>
   - B. Unwritten Consonants
       - 1. Internal Doubling
-      - 2. Unwritten <span class="ipa">-q</span>
+      - 2. Unwritten <span class="ipa">/-q/</span>
 
 X. Irregular Spellings 
   - 1. <span class="ipa">ɑ/uə</span> instead of <span class="ipa">ɑɑ/ɔɔ</span> [sup]
-  - 2. <span class="ipa">a/uə</span> instead of <span class="ipa">a/eə/oə</span> [sup]
+  - 2. <span class="ipa">a/uə̆</span> instead of <span class="ipa">a/eə̆/oə̆</span> [sup]
   - 3. Exceptions to the Governance Rule
   - 4. Silent Final Short Vowel Symbols
   - 5. <span class="ipa">ae/ɛɛ</span> instead of <span class="ipa">ei/ee</span>
-  - 6. <span class="ipa">əy</span> instead of <span class="ipa">e</span>
-  - 7. <span class="ipa">a</span> instead of <span class="ipa">ə</span>
+  - 6. <span class="ipa">/əy/</span> instead of <span class="ipa">/e/</span>
+  - 7. <span class="ipa">/a/</span> instead of <span class="ipa">/ə/</span>
   
 XI. Writing 
   - A. Handwriting 
     - 1. Symbol Composition
-    - 2. The Symbol <span class="khmer">ា</span> or [KH]
+    - 2. The Symbol <code class="khmer-sub">ា</code> or [kh]
     - 3. Word Composition
   - B. Styles of Script
   - C. Samples of Handwriting Style
@@ -143,13 +143,12 @@ PART TWO: Programmed Reading Exercises
 - XII. Written Final Clusters (Exercises 179-184)
 - XIII. Unwritten Vowels (Exercises 185-193)
 - XIV. Unwritten Consonants (Exercises 194-196)
-- XV._Some Irregular Spellings (Exercises 197-203)
+- XV. Some Irregular Spellings (Exercises 197-203)
 - XVI. Some Additional Diacritics (Exercises 204-216)
 - XVII. Vowel Reduction in Presyllables (Exercises 217-219) 
 - XVIII. Numerals (Exercises 220-226)
 
 
-[REST TK]
 
 
 
