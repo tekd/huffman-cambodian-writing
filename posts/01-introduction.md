@@ -24,9 +24,7 @@ The typical stress pattern in such disyllables is an unstressed presyllable foll
 
 The Cambodian script (called <span class="ipa">/qaqsɑɑ kmae/</span> ‘Khmer letters’), as well as the Thai, Lao, Burmese, Old Mon, Old Cham, and Old Javanese scripts, are all derived from some form (or perhaps from various forms) of the ancient Brahmi script of South India, The earliest form of this script so far discovered in Southeast Asia is that of the Vo-canh Sanskrit inscription of the second or third century A.D., in the area of the old kingdom of Funan.[^3] The exact geographical source in India of these scripts has not been determined, but epigraphers find great similarity between the earliest inscriptions in Southeast Asia and those of the early Pallawa kingdom of Kanchi on the Coromandel coast of India.[^4] The earliest inscription in the Cambodian language is that found at Angkor Borei in Takéo Province of southern Cambodia, and is dated 611 A.D.[^5] Since this inscription was found in what would have been the area of Funan, the first known Indianized kingdom in Southeast Asia (first century A.D. to c. 550 A.D.), and since no vernacular inscriptions dating from the time of Funan have been discovered in the area, Cambodian may have been the language of Funan. At any rate, the fact that Cambodian was the language of Chen-La (550-802 A.D.), Funan’s suc-
 cessor in the Mekong Valley, and of the great kingdom of Angkor (802—1431 A.D.),
-whose suzerainty at its height extended eastward to the sea, northward to Tongking and northern Laos, westward to Burma, and southward to Malaya, is attested by an abundance of stone inscriptions covering the period from the seventh to the
-eighteenth centuries.[^6] Furthermore, the fact that pockets of speakers of Mon-Khmer-related dialects are found all over mainland Southeast Asia seems to indicate that Mon-Khmer in fact represents a much older linguistic substratum
-which was later engulfed, partially assimilated, and pushed into the hills by succeeding migrations of Vietnamese, Tai, and Burmese.
+whose suzerainty at its height extended eastward to the sea, northward to Tongking and northern Laos, westward to Burma, and southward to Malaya, is attested by an abundance of stone inscriptions covering the period from the seventh to the eighteenth centuries.[^6] Furthermore, the fact that pockets of speakers of Mon-Khmer-related dialects are found all over mainland Southeast Asia seems to indicate that Mon-Khmer in fact represents a much older linguistic substratum which was later engulfed, partially assimilated, and pushed into the hills by succeeding migrations of Vietnamese, Tai, and Burmese.
 
 Part One of this book is a description of the relationship, or the “fit,” between the sounds (i.e. the phonological structure) of modern Cambodian and the symbols (i.e. the written system) that are used to represent them. Writing systems differ widely in terms of the closeness of the fit between sound and symbol; i.e. in the regularity with which a given symbol represents a given sound. By this yardstick the Cambodian writing system is a much better writing system than, for example, that used to represent English. A description of the English writing system would consist, after a nucleus of “regular” spellings, of an almost endless list of exceptions. An example of this confusing irregularity is the variety of sounds represented by the symbols _-ough_ in the words _rough_, _cough_, _bough_, _slough_, and _hiccough_. The Cambodian writing system, on the other hand, represents the sounds of Cambodian with remarkably little ambiguity, especially at the level of common vocabulary.[^7] There are exceptions, of course, especially at the level of learned vocabulary borrowed from Sanskrit and Pali sources. These exceptions will be dealt with as exhaustively as possible, but it would be impossible, even for as regular a writing system as Cambodian, to list them all.
 
@@ -42,15 +40,15 @@ Although Cambodian spelling has historically been plagued by a lack of standardi
 
 [^1]: Frank M. LeBar, Gerald D. Hickey, and John K. Musgrave, Ethnic Groups of Mainland Southeast Asia (New Haven, Human Relations Area Files, 1964), pp. 287-88.
 
-[^2]: 2. P. Wilhelm Schmidt, “Les peuples mon-khmér; trait d’union entre les peuples de l’Asie centrale et de l’Austronésie,” Bulletin de l’Ecole Française d'Extréme-Orient, 7 (1907), pp. 213-63.
+[^2]: P. Wilhelm Schmidt, “Les peuples mon-khmér; trait d’union entre les peuples de l’Asie centrale et de l’Austronésie,” Bulletin de l’Ecole Française d'Extréme-Orient, 7 (1907), pp. 213-63.
 
-[^3]: 3. K Kumar Sarkar, “The Earliest Inscription of Indochina,” Sino-Indian Studies, 2 (1956), pp. 7-87.
+[^3]: K Kumar Sarkar, “The Earliest Inscription of Indochina,” Sino-Indian Studies, 2 (1956), pp. 7-87.
 
-[^4]: 4. KA, Nilakanta Sastri, “L’Origine de Palphabet du Champa,” Bulletin de l'Ecole Francaise d’Extréme-Orient, 35, pp. 233-41.
+[^4]: KA, Nilakanta Sastri, “L’Origine de Palphabet du Champa,” Bulletin de l'Ecole Francaise d’Extréme-Orient, 35, pp. 233-41.
 
-[^5]: 5. L. P. Briggs, The Ancient Khmer Empire (Philadelphia, The American Philosophical Society, 1951), p. 15, n. 18.
+[^5]: L. P. Briggs, The Ancient Khmer Empire (Philadelphia, The American Philosophical Society, 1951), p. 15, n. 18.
 
-[^6]: 6. Georges Maspero, Grammaire de la langue khmére (Paris, Imprimerie Nationale, 1915, p. 23.
+[^6]: Georges Maspero, Grammaire de la langue khmére (Paris, Imprimerie Nationale, 1915, p. 23.
 
-[^7]: 7. Assuming one is dealing with a homogeneous dialect; differences of pronunciation from one dialect to another are another matter.
+[^7]: Assuming one is dealing with a homogeneous dialect; differences of pronunciation from one dialect to another are another matter.
 

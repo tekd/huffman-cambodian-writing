@@ -69,7 +69,7 @@ VII. Diacritics and Punctuation
     - 6. The <span class="ipa">/toə̆ndəkhiət/</span> (<code class="khmer-sub">៍</code>)
     - 7. The <span class="ipa">/rɔbaat/</span> (<code class="khmer-sub">៌</code>)
     - 8. The <span class="ipa">/reə̆hmuk/</span> (<code class="khmer-sub">ះ</code>)
-    - 9. The <span class="ipa">/yuqkəleə̆qpɨntuq/</span> (<code class="khmer-sub">ៈ</code>)[sup]
+    - 9. The <span class="ipa">/yuqkəleə̆qpɨntuq/</span> (<code class="khmer-sub">ៈ</code>)
     - 10. The <span class="ipa">/leik qahsdaa/</span> (<code class="khmer-sub">៏</code>)
     - 11. The <span class="ipa">/wiqriəm/</span> (<code class="khmer-sub">៑</code>)
     - 12. The <span class="ipa">/kaaqkəbaat/</span> (<code class="khmer-sub">៎</code>)
@@ -78,7 +78,7 @@ VII. Diacritics and Punctuation
     - 2. The <span class="ipa">/khan/</span> (<span class="khmer">។</span>)
     - 3. The <span class="ipa">/bɑɑriyaosaan/</span> (<span class="khmer">៕</span>)
     - 4. The <span class="ipa">/koo-mout/</span> (<span class="khmer">៚</span>)
-    - 5. The <span class="ipa">/pnɛɛk moə̆n/</span> (<span class="khmer">៙</span>) [sup]
+    - 5. The <span class="ipa">/pnɛɛk moə̆n/</span> (<span class="khmer">៙</span>) 
     - 6. The <span class="ipa">/cɑmnoc pii kuuh/</span> (<span class="khmer">៖</span>)
     - 7. The <span class="ipa">/leik too/</span> (<span class="khmer">ៗ</span>)
     - 8. The <span class="ipa">/laq/</span> (<span class="khmer">៘</span>)
@@ -109,8 +109,8 @@ IX. Unwritten Sounds
       - 2. Unwritten <span class="ipa">/-q/</span>
 
 X. Irregular Spellings 
-  - 1. <span class="ipa">ɑ/uə</span> instead of <span class="ipa">ɑɑ/ɔɔ</span> [sup]
-  - 2. <span class="ipa">a/uə̆</span> instead of <span class="ipa">a/eə̆/oə̆</span> [sup]
+  - 1. <span class="ipa">ɑ/uə</span> instead of <span class="ipa">ɑɑ/ɔɔ</span> 
+  - 2. <span class="ipa">a/uə̆</span> instead of <span class="ipa">a/eə̆/oə̆</span> 
   - 3. Exceptions to the Governance Rule
   - 4. Silent Final Short Vowel Symbols
   - 5. <span class="ipa">ae/ɛɛ</span> instead of <span class="ipa">ei/ee</span>
