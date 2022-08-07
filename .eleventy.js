@@ -4,6 +4,7 @@ const { DateTime } = require("luxon");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItFootnote = require("markdown-it-footnote");
+const { EleventyRenderPlugin } = require("@11ty/eleventy");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -65,6 +66,7 @@ module.exports = function (eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
+  eleventyConfig.addPlugin(EleventyRenderPlugin);
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,

@@ -250,3 +250,18 @@ ul {
   font-weight: bold;
 
 }
+
+.row {
+  max-width: 37.5em; /* 600px /16 */
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  margin: 1rem 0;
+}
+.row span.column {
+  padding: 0 1rem 0 0;
+}
+
+.row p {
+  margin: 0;
+}
