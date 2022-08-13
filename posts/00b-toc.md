@@ -8,21 +8,22 @@ eleventyNavigation:
 ---
 
 
-Preface
+[Preface](../00a-preface/)
 
 PART ONE: The Cambodian System of Writing
 
-I. Introduction
-  - A. The Language
-  - B. The Writing System
+[I. Introduction](../01-introduction/)
+  - [A. The Language](../01-introduction/#a-the-language)
+  - [B. The Writing System](../01-introduction/#b-the-system-of-writing)
 
-II. Phonology
-  - A. Consonants
-  - B. Initial Consonant Sequences
-  - C. Vowels
-  - D. Word Structure
-  - E. Marginal Phonemes and Phoneme Combinations
+[II. Phonology](../01-introduction/#b-the-system-of-writing)
+  - [A. Consonants](../02-phonology/#a-consonants)
+  - [B. Initial Consonant Sequences](../02-phonology/#b-initial-consonant-sequences)
+  - [C. Vowels](../02-phonology/#c-vowels)
+  - [D. Word Structure](../02-phonology/#d-word-structure)
+  - [E. Marginal Phonemes and Phoneme Combinations](../02-phonology/#e-marginal-phonemes-and-phoneme-combinations)
 
+<div class="tk">
 III. The Consonant Symbols
   - A. Names and Values of the Consonant Symbols
   - B. Notes on the Consonant Symbols
@@ -150,5 +151,5 @@ PART TWO: Programmed Reading Exercises
 
 
 
-
+</div>
 
