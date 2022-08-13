@@ -229,7 +229,7 @@ span.khmer {
 }
 
 .ipa {
-  font-family: 'Voces', cursive;
+  /* font-family: 'Voces', cursive; */
   color: var(--darkgray);
 }
 

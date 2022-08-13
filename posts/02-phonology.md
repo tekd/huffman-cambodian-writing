@@ -37,7 +37,7 @@ There are thirty-one different vowels and vowel combinations which occur as voca
 ### Phonetic Key
 
 {% renderFile "./_includes/charts/_chart-6.md" %}
-{% include "charts/_chart-7.html" %}
+{% renderFile "./_includes/charts/_chart-7.md" %}
 
 ## D. WORD STRUCTURE
 
@@ -45,40 +45,40 @@ There are thirty-one different vowels and vowel combinations which occur as voca
 
 The structure of monosyllables is shown by the formula <span class="ipa">C<sub>1</sub>(C<sub>2</sub>)(C<sub>3</sub>)V<sub>1</sub>(V<sub>2</sub>)(C<sub>4</sub>)</span>, with the limitation that if <span class="ipa">V<sub>2</sub></span> doesn’t occur, then <span class="ipa">C<sub>4</sub></span> must occur. In other words, short vowels are always followed by a consonant in stressed syllables. Thus monosyllables containing a short vowel or diphthong will have one of the following three shapes; the third is rare.
 
-{% include "charts/_chart-8.html" %}
+{% renderFile "./_includes/charts/_chart-8.md" %}
 
 Monosyllables containing a long vowel or diphthong occur in the following five shapes; the fifth is rare.
 
-{% include "charts/_chart-9.html" %}
+{% renderFile "./_includes/charts/_chart-9.md" %}
 
 Sequences of three initial consonants occur only rarely, and then <span class="ipa">C<sub>3</sub><span> is always <span class="ipa">/h/</span>.
 
 ## 2. Disyllables
 
-Minor disyllables[^2] consist of an unstressed presyllable of shape <span class="ipa">CV+, CrV+, CVN+, or CrVN+,</span> followed by a stressed syllable. Minor syllables occur with high frequency in Cambodian, and might almost equal the monosyllable in total inventory if not in frequency. In minor disyllables the vowel of the unstressed presyllable is usually reduced to <span class="ipa">/o/</span> in normal speech.
+__Minor disyllables__[^2] consist of an unstressed presyllable of shape <span class="ipa">CV+, CrV+, CVN+, or CrVN+,</span> followed by a stressed syllable. Minor syllables occur with high frequency in Cambodian, and might almost equal the monosyllable in total inventory if not in frequency. In minor disyllables the vowel of the unstressed presyllable is usually reduced to <span class="ipa">/ə/</span> in normal speech.
 
-{% include "charts/_chart-10.html" %}
+{% renderFile "./_includes/charts/_chart-10.md" %}
 
-Major disyllables consist of two stressed syllables in close juncture. Most such words are compounds; some, however, are  morphologically simple (as are the first two examples below).
+__Major disyllables__ consist of two stressed syllables in close juncture. Most such words are compounds; some, however, are  morphologically simple (as are the first two examples below).
 
-{% include "charts/_chart-11.html" %}
+{% renderFile "./_includes/charts/_chart-11.md" %}
 
-3. Polysyllables
+## 3. Polysyllables
 
 Polysyllables are rare in colloquial speech, and can usually be identified as loanwords from Pali, Sanskrit, or French sources. Words of up to six syllables occur in formal speech, and even longer words occur in written texts. Such polysyllables tend to conform in normal speech to the stress pattern typical of disyllables; i.e. alternation of an unstressed with a stressed syllable.
 
-{% include "charts/_chart-12.html" %}
+{% renderFile "./_includes/charts/_chart-12.md" %}
 
 ## E. MARGINAL PHONEMES AND PHONEME COMBINATIONS
 
 Certain marginal phonemes and combinations are introduced by French loanwords which are not completely assimilated to the  phonological structure of native Cambodian words.
 
-{% include "charts/_chart-13.html" %}
+{% renderFile "./_includes/charts/_chart-13.md" %}
 
 
 # Footnotes
 
 [^1]: Other analyses of the vowel system are possible, of course, but whatever the analysis, thirty-one vocalic contrasts must be maintained for an accurate representation of standard Cambodian syllables.
 
-[^2]: 2. My use of the terms “minor” and “major” disyllable differs somewhat from that of Henderson in Eugénie J. A. Henderson, “The Main Features of Cambodian Pronunciation,” Bulletin of the School of Oriental and African Studies, 14 (1952), pp. 149-74.
+[^2]: My use of the terms “minor” and “major” disyllable differs somewhat from that of Henderson in Eugénie J. A. Henderson, “The Main Features of Cambodian Pronunciation,” Bulletin of the School of Oriental and African Studies, 14 (1952), pp. 149-74.
 
