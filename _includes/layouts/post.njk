@@ -11,14 +11,15 @@ templateClass: tmpl-post
 
 {{ content | safe }}
 
-{%- if collections.posts %}
-{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-{%- if nextPost or previousPost %}
+
+{%- if collections.chapters %}
+{%- set nextChapter = collections.chapters | getNextCollectionItem(page) %}
+{%- set previousChapter = collections.chapters | getPreviousCollectionItem(page) %}
+{%- if nextChapter or previousChapter %}
 <hr>
 <ul>
-  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+  {%- if nextChapter %}<li>Next: <a href="{{ nextChapter.url | url }}">{{ nextChapter.data.title }}</a></li>{% endif %}
+  {%- if previousChapter %}<li>Previous: <a href="{{ previousChapter.url | url }}">{{ previousChapter.data.title }}</a></li>{% endif %}
 </ul>
 {%- endif %}
 {%- endif %}

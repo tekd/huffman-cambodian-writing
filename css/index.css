@@ -17,7 +17,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, system-ui, sans-serif;
+  font-family: 'Noto Sans', sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -225,7 +225,7 @@ span.khmer {
 
 .khmer {
   font-family: 'Khmer', cursive;
-  font-size: 24px;
+  /* font-size: 24px; */
 }
 
 .ipa {
@@ -234,11 +234,11 @@ span.khmer {
 }
 
 .diacritic, .khmer-sub {
-  font-size: 2rem;
+  /* font-size: 2rem; */
 }
 
 table {
-  background-color: pink;
+  outline: 1px black solid;
 }
 
 ul {

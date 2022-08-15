@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 
 
-<h1 class="khmer">[kh][kh]ខេមរភាសា</h1>
+<!-- <h1 class="khmer">[]</h1> -->
 
 ## Cambodian System of Writing and Beginning Reader
 
