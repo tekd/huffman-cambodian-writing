@@ -7,6 +7,9 @@ eleventyNavigation:
 
 
 <!-- <h1 class="khmer">[]</h1> -->
+<div class="note">
+<p>Note: This is an ongoing project and is being updated chapter by chapter. None of the content has yet been reviewed. </p>
+</div>
 
 ## Cambodian System of Writing and Beginning Reader
 

@@ -1,3 +1,4 @@
+<figure>
 <figcaption>Chart 2. Initial Consonant Sequences</figcaption>
 
 | C1 | C2 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | C3 |    |
@@ -12,3 +13,4 @@
 | m  |    | x | x |   | x |   |   |   | x | x |   |   |   | x | x | x | x |    |    |
 | l  | x  |   |   | x | x | x | x | x |   |   | x | x |   |   |   |   | x |    | x  |
   
+</figure>

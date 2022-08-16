@@ -7,4 +7,6 @@ eleventyNavigation:
   order: 3
 ---
 
-An HTML version of the public domain 1970 Khmer language textbook by Franklin E. Huffman.
+This is an HTML version of the public domain 1970 Khmer language textbook by Franklin E. Huffman in progress. 
+
+This project is ongoing and is being updated chapter by chapter. None of the content has been reviewed, and reviews, suggestions, and contributions are welcome. 

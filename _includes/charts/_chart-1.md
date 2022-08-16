@@ -1,3 +1,4 @@
+<figure>
 <figcaption>Chart 1. Consonants</figcaption>
 
 |            |            |Labial |Dental |Palatal |Velar |Glottal |
@@ -12,3 +13,5 @@
 |            |Semivocalic |-w     |       |-y      |      |        |
 |            |Lateral     |       |-l     |        |      |        |
 |            |Trilled     |       |r      |        |      |        |
+
+</figure>

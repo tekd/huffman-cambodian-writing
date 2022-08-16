@@ -17,7 +17,7 @@ as in <span class="ipa">/biə/</span> ‘playing cards’. Falling diphthong, mo
 <div class="row row__narrow">
 <span class="ipa column">/ee/</span>
 
-as in /leeŋ/[IPA] ‘to play’. Higher-mid front unrounded vowel with lax and breathy articulation; similar to French _ée_ in _année_.
+as in <span class="ipa">/leeŋ/</span> ‘to play’. Higher-mid front unrounded vowel with lax and breathy articulation; similar to French _ée_ in _année_.
 
 </div>
 
@@ -45,7 +45,7 @@ as in <span class="ipa">/lɨɨ/</span> ‘to hear’, High central unrounded vow
 <div class="row row__narrow">
 <span class="ipa column">/ɨə/</span>
 
-as in /cɨə/[IPA] ‘to believe’. Falling diphthong, moving from a high central to a mid central position.
+as in <span class="ipa">/cɨə/</span> ‘to believe’. Falling diphthong, moving from a high central to a mid central position.
 
 </div>
 
@@ -115,7 +115,7 @@ as in <span class="ipa">/muəq/</span> 'hat'. Falling diphthong, moving from the
 <div class="row row__narrow">
 <span class="ipa column">/oo/</span>
 
-as in <span class="ipa">/koo/</span> 'ox'. Higher-mid back rounded vowel with lax and breathy articulation, similar to French _ô_[IPA] in _rôle_.
+as in <span class="ipa">/koo/</span> 'ox'. Higher-mid back rounded vowel with lax and breathy articulation, similar to French _ô_ in _rôle_.
 
 </div>
 

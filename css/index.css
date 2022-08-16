@@ -17,7 +17,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Noto Sans', sans-serif;
+  font-family: Arial, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -238,7 +238,15 @@ span.khmer {
 }
 
 table {
-  outline: 1px black solid;
+
+}
+figure {
+
+}
+
+figcaption {
+  font-size: .9rem;
+  font-weight: 700;
 }
 
 ul {
@@ -268,4 +276,9 @@ ul {
 
 .tk {
   color: gray;
+}
+
+.note {
+  color: red;
+  font-weight: 700;;
 }
