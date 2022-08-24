@@ -22,23 +22,24 @@ PART ONE: The Cambodian System of Writing
   - [D. Word Structure](../02-phonology/#d-word-structure)
   - [E. Marginal Phonemes and Phoneme Combinations](../02-phonology/#e-marginal-phonemes-and-phoneme-combinations)
 
+
+[III. The Consonant Symbols](../03-the-consonant-symbols/)
+  - [A. Names and Values of the Consonant Symbols](../03-the-consonant-symbols/#a-names-and-values-of-the-consonant-symbols)
+  - [B. Notes on the Consonant Symbols](../03-the-consonant-symbols/#b-notes-on-the-consonant-symbols)
+    - [1. The Two Series](../03-the-consonant-symbols/#1-the-two-series)
+    - [2. Conversion](../03-the-consonant-symbols/#2-conversion)
+    - [3. The Symbol <span class="khmer">ប</span> <span class="ipa">/bɑɑ/</span>](../03-the-consonant-symbols/#3-the-symbol-baa)
+    - [4. The Symbol <span class="khmer">ត</span> <span class="ipa">/tɑɑ/</span>](../03-the-consonant-symbols/#4-the-symbol-t)
+    - [5. The Retroflexes](../03-the-consonant-symbols/#5-the-retroflexes)
+    - [6. The Aspirates](../03-the-consonant-symbols/#6-the-aspirates)
+    - [7. Final <span class="khmer">-រ</span>](../03-the-consonant-symbols/#7-final)
+    - [8. Special Combinations](../03-the-consonant-symbols/#8-special-combinations)
+  - [C. The Two Series Contrasted](../03-the-consonant-symbols/#c-the-two-series-contrasted)
+  - [D. Final Consonants](../03-the-consonant-symbols/#d-final-consonants)
+
 <div class="tk">
 
 [CHAPTERS TK]
-
-III. The Consonant Symbols
-  - A. Names and Values of the Consonant Symbols
-  - B. Notes on the Consonant Symbols
-    - 1. The Two Series
-    - 2. Conversion
-    - 3. The Symbol <span class="khmer">ប</span> <span class="ipa">/bɑɑ/</span>
-    - 4. The Symbol <span class="khmer">ត</span> <span class="ipa">/tɑɑ/</span>
-    - 5. The Retroflexes
-    - 6. The Aspirates
-    - 7. Final <span class="khmer">-រ</span>
-    - 8. Special Combinations
-  - C. The Two Series Contrasted
-  - D. Final Consonants
 
 IV. The Vowel Symbols
   - A. Names of the Vowel Symbols
